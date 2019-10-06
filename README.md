@@ -1,1 +1,1 @@
-# 05-Space-Shooter
+Hello! this is going to be my attempt at a space shooter game. In my game, you will be able to fly a ship around and some enemies will appear and you will be able to kill them for points.
